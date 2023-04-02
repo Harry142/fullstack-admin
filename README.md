@@ -26,3 +26,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 If you have any questions or concerns about the website or this repository, please contact the system administrator or submit an issue on this repository.
+
+Demo: https://admin-frontend-mwmz.onrender.com
